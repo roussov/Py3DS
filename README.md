@@ -1,6 +1,6 @@
 # 3DS - Éditeur & Interpréteur Python Minimaliste
 
-Py3DS est un projet d'éditeur de code Python accompagné d’un interpréteur minimaliste entièrement écrit en C.
+Py3DS est un projet d'éditeur de code Python embarqué sur 3DS accompagné d’un interpréteur minimaliste entièrement écrit en C.
 Il vise à fournir un environnement simple pour éditer, analyser et exécuter du code Python via un parsing manuel, AST et évaluation.
 
 ---
